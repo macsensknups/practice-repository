@@ -1,2 +1,3 @@
 # practice-repository
-repository for doint manual
+repository for doint m
+some changes
